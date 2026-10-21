@@ -1,0 +1,19 @@
+type: hyperskill
+title: Password Hacker (Java)
+language: English
+summary: "<p>All sorts of creatures lurk around the Internet, including trolls, pirates,\
+  \ miners – and hackers. In this project you’ll wear the hat of a real hacker. You\
+  \ must connect to a secret server without knowing the password. Your task is to\
+  \ write a Java program that can hack this password, and do so in the quickest way\
+  \ possible.</p>"
+programming_language: Java
+programming_language_version: 11
+content:
+  - Password Hacker (Java)
+additional_files:
+  - name: build.gradle
+    visible: true
+  - name: settings.gradle
+    visible: true
+mode: Study
+yaml_version: 5

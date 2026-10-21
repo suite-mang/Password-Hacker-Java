@@ -1,0 +1,7 @@
+type: framework
+content:
+  - Establishing a connection
+  - Simple brute force
+  - "Smarter, dictionary-based brute force"
+  - Catching exception
+  - Time-based vulnerability

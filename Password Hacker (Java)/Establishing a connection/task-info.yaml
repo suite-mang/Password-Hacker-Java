@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: src/hacker/Main.java
+    visible: true
+    learner_created: false
+  - name: test/HackingTests.java
+    visible: true
+    learner_created: false
+  - name: test/ServerHack.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/329/stages/1845/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 09 Oct 2026 19:09:22 UTC"
+record: -1

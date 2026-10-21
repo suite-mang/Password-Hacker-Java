@@ -1,0 +1,24 @@
+# Build output
+build/
+*/build/
+out/
+*/out/
+bin/
+
+# Gradle
+.gradle/
+*/.gradle/
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local debug-tool build artifacts (the source files are kept)
+**/debugtools/out/
+**/debugtools/hout/
+
+# OS cruft
+.DS_Store
+Thumbs.db
